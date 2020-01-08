@@ -1,0 +1,17 @@
+{
+    "salas": [
+      {
+        "nombre": "Suit de lujo",
+        "num": "1",
+        "activa": true,
+        "descripción": "Solo para millonarios"
+      },
+
+      {
+        "nombre": "Suit de pobres",
+        "num": "2",
+        "activa": false,
+        "descripción": "Solo para pobres"
+    }
+            ]    
+}
